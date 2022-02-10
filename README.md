@@ -1,4 +1,4 @@
-## Personal Front-end blog
+## Personal Front-end Blog
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
